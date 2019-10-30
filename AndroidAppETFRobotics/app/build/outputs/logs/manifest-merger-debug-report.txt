@@ -1,0 +1,174 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\nikolamaksic\Desktop\ETF Robotics\AndroidAppETFRobotics\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\nikolamaksic\Desktop\ETF Robotics\AndroidAppETFRobotics\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\nikolamaksic\Desktop\ETF Robotics\AndroidAppETFRobotics\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\nikolamaksic\Desktop\ETF Robotics\AndroidAppETFRobotics\app\src\main\AndroidManifest.xml:2:1-36:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\428740211ebacdefedaede74e4b5b214\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\9f5760aa6ccc63d55d136cf507d21bbd\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\3b725fbb2b18c5c11b1bf59fa7faee3a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\c75fb8b9af82b8716193a3444709b095\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\6676928103540acd5db43de4b60c8eaa\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\7203385a3c44776d2cd316ac8ddb2e1c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\2285b3e33ef3b1930226db23e72bdc35\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\2dc4fbc0ad506651bf830eefb39ddf0b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\750d1f6ccfa67850f6b69377fa4b6a10\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\113aea2ae30c29db44acd3555c1f8c6e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\cb65823363ff6ec3a95762e227f67193\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\4ff55d48efc63df6a1cd5c08c62ca0d3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\0bc44eed56661d0e7b82b525c2a0badd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\00423a2b1d5a5a5e3b2bd6f1bdaacd3c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\93f516585c2a52cc2833a14f4005b033\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\1f5cdfc1fd4c5e26e321680506880c7e\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\0c9a485b94b24925171cc0eeede96c95\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\3e49a73d06d2bed67f4529f70b0a102b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\d76c80acec895ce5d4bdee200c38ce77\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\37ccab1b1a41e3f9eb33ab40afb286ff\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\0638c76ca4d297f69532482ecd7e9c02\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\113ee54be4d67cb5476eb3b774cac44a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\38b46a28123af628162a14b8d2fa6de9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\671dabe713057da192a5bea52b2d48f2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\5ac967b94152d9dbc72d168de004a0de\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\00a223bf3e3ec42848ac489a08693d2f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\489a457bdafeb7e898060fe639571832\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\nikolamaksic\Desktop\ETF Robotics\AndroidAppETFRobotics\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\nikolamaksic\Desktop\ETF Robotics\AndroidAppETFRobotics\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\nikolamaksic\Desktop\ETF Robotics\AndroidAppETFRobotics\app\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from C:\Users\nikolamaksic\Desktop\ETF Robotics\AndroidAppETFRobotics\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Users\nikolamaksic\Desktop\ETF Robotics\AndroidAppETFRobotics\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nikolamaksic\Desktop\ETF Robotics\AndroidAppETFRobotics\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\nikolamaksic\Desktop\ETF Robotics\AndroidAppETFRobotics\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\nikolamaksic\Desktop\ETF Robotics\AndroidAppETFRobotics\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from C:\Users\nikolamaksic\Desktop\ETF Robotics\AndroidAppETFRobotics\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\nikolamaksic\Desktop\ETF Robotics\AndroidAppETFRobotics\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\nikolamaksic\Desktop\ETF Robotics\AndroidAppETFRobotics\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from C:\Users\nikolamaksic\Desktop\ETF Robotics\AndroidAppETFRobotics\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\nikolamaksic\Desktop\ETF Robotics\AndroidAppETFRobotics\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\nikolamaksic\Desktop\ETF Robotics\AndroidAppETFRobotics\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\nikolamaksic\Desktop\ETF Robotics\AndroidAppETFRobotics\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\nikolamaksic\Desktop\ETF Robotics\AndroidAppETFRobotics\app\src\main\AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from C:\Users\nikolamaksic\Desktop\ETF Robotics\AndroidAppETFRobotics\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\nikolamaksic\Desktop\ETF Robotics\AndroidAppETFRobotics\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Users\nikolamaksic\Desktop\ETF Robotics\AndroidAppETFRobotics\app\src\main\AndroidManifest.xml:7:22-65
+application
+ADDED from C:\Users\nikolamaksic\Desktop\ETF Robotics\AndroidAppETFRobotics\app\src\main\AndroidManifest.xml:9:5-34:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\9f5760aa6ccc63d55d136cf507d21bbd\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\9f5760aa6ccc63d55d136cf507d21bbd\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\1f5cdfc1fd4c5e26e321680506880c7e\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\1f5cdfc1fd4c5e26e321680506880c7e\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\0c9a485b94b24925171cc0eeede96c95\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\0c9a485b94b24925171cc0eeede96c95\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\1f5cdfc1fd4c5e26e321680506880c7e\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\nikolamaksic\Desktop\ETF Robotics\AndroidAppETFRobotics\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Users\nikolamaksic\Desktop\ETF Robotics\AndroidAppETFRobotics\app\src\main\AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from C:\Users\nikolamaksic\Desktop\ETF Robotics\AndroidAppETFRobotics\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from C:\Users\nikolamaksic\Desktop\ETF Robotics\AndroidAppETFRobotics\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from C:\Users\nikolamaksic\Desktop\ETF Robotics\AndroidAppETFRobotics\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\nikolamaksic\Desktop\ETF Robotics\AndroidAppETFRobotics\app\src\main\AndroidManifest.xml:13:9-65
+activity#com.example.etfrobotics.MainActivity
+ADDED from C:\Users\nikolamaksic\Desktop\ETF Robotics\AndroidAppETFRobotics\app\src\main\AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from C:\Users\nikolamaksic\Desktop\ETF Robotics\AndroidAppETFRobotics\app\src\main\AndroidManifest.xml:17:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\nikolamaksic\Desktop\ETF Robotics\AndroidAppETFRobotics\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\nikolamaksic\Desktop\ETF Robotics\AndroidAppETFRobotics\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\nikolamaksic\Desktop\ETF Robotics\AndroidAppETFRobotics\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\nikolamaksic\Desktop\ETF Robotics\AndroidAppETFRobotics\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\Users\nikolamaksic\Desktop\ETF Robotics\AndroidAppETFRobotics\app\src\main\AndroidManifest.xml:21:27-74
+activity#com.example.etfrobotics.ShowChartsActivity
+ADDED from C:\Users\nikolamaksic\Desktop\ETF Robotics\AndroidAppETFRobotics\app\src\main\AndroidManifest.xml:26:9-31:20
+	android:name
+		ADDED from C:\Users\nikolamaksic\Desktop\ETF Robotics\AndroidAppETFRobotics\app\src\main\AndroidManifest.xml:26:19-53
+service#org.eclipse.paho.android.service.MqttService
+ADDED from C:\Users\nikolamaksic\Desktop\ETF Robotics\AndroidAppETFRobotics\app\src\main\AndroidManifest.xml:33:9-80
+	android:name
+		ADDED from C:\Users\nikolamaksic\Desktop\ETF Robotics\AndroidAppETFRobotics\app\src\main\AndroidManifest.xml:33:18-77
+uses-sdk
+INJECTED from C:\Users\nikolamaksic\Desktop\ETF Robotics\AndroidAppETFRobotics\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\nikolamaksic\Desktop\ETF Robotics\AndroidAppETFRobotics\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\nikolamaksic\Desktop\ETF Robotics\AndroidAppETFRobotics\app\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\428740211ebacdefedaede74e4b5b214\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\428740211ebacdefedaede74e4b5b214\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\9f5760aa6ccc63d55d136cf507d21bbd\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\9f5760aa6ccc63d55d136cf507d21bbd\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\3b725fbb2b18c5c11b1bf59fa7faee3a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\3b725fbb2b18c5c11b1bf59fa7faee3a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\c75fb8b9af82b8716193a3444709b095\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\c75fb8b9af82b8716193a3444709b095\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\6676928103540acd5db43de4b60c8eaa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\6676928103540acd5db43de4b60c8eaa\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\7203385a3c44776d2cd316ac8ddb2e1c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\7203385a3c44776d2cd316ac8ddb2e1c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\2285b3e33ef3b1930226db23e72bdc35\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\2285b3e33ef3b1930226db23e72bdc35\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\2dc4fbc0ad506651bf830eefb39ddf0b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\2dc4fbc0ad506651bf830eefb39ddf0b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\750d1f6ccfa67850f6b69377fa4b6a10\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\750d1f6ccfa67850f6b69377fa4b6a10\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\113aea2ae30c29db44acd3555c1f8c6e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\113aea2ae30c29db44acd3555c1f8c6e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\cb65823363ff6ec3a95762e227f67193\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\cb65823363ff6ec3a95762e227f67193\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\4ff55d48efc63df6a1cd5c08c62ca0d3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\4ff55d48efc63df6a1cd5c08c62ca0d3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\0bc44eed56661d0e7b82b525c2a0badd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\0bc44eed56661d0e7b82b525c2a0badd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\00423a2b1d5a5a5e3b2bd6f1bdaacd3c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\00423a2b1d5a5a5e3b2bd6f1bdaacd3c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\93f516585c2a52cc2833a14f4005b033\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\93f516585c2a52cc2833a14f4005b033\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\1f5cdfc1fd4c5e26e321680506880c7e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\1f5cdfc1fd4c5e26e321680506880c7e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\0c9a485b94b24925171cc0eeede96c95\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\0c9a485b94b24925171cc0eeede96c95\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\3e49a73d06d2bed67f4529f70b0a102b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\3e49a73d06d2bed67f4529f70b0a102b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\d76c80acec895ce5d4bdee200c38ce77\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\d76c80acec895ce5d4bdee200c38ce77\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\37ccab1b1a41e3f9eb33ab40afb286ff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\37ccab1b1a41e3f9eb33ab40afb286ff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\0638c76ca4d297f69532482ecd7e9c02\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\0638c76ca4d297f69532482ecd7e9c02\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\113ee54be4d67cb5476eb3b774cac44a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\113ee54be4d67cb5476eb3b774cac44a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\38b46a28123af628162a14b8d2fa6de9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\38b46a28123af628162a14b8d2fa6de9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\671dabe713057da192a5bea52b2d48f2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\671dabe713057da192a5bea52b2d48f2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\5ac967b94152d9dbc72d168de004a0de\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\5ac967b94152d9dbc72d168de004a0de\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\00a223bf3e3ec42848ac489a08693d2f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\00a223bf3e3ec42848ac489a08693d2f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\489a457bdafeb7e898060fe639571832\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\nikolamaksic\.gradle\caches\transforms-2\files-2.1\489a457bdafeb7e898060fe639571832\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\nikolamaksic\Desktop\ETF Robotics\AndroidAppETFRobotics\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\nikolamaksic\Desktop\ETF Robotics\AndroidAppETFRobotics\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\nikolamaksic\Desktop\ETF Robotics\AndroidAppETFRobotics\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\nikolamaksic\Desktop\ETF Robotics\AndroidAppETFRobotics\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nikolamaksic\Desktop\ETF Robotics\AndroidAppETFRobotics\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\nikolamaksic\Desktop\ETF Robotics\AndroidAppETFRobotics\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\nikolamaksic\Desktop\ETF Robotics\AndroidAppETFRobotics\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nikolamaksic\Desktop\ETF Robotics\AndroidAppETFRobotics\app\src\main\AndroidManifest.xml

@@ -1,0 +1,3 @@
+user: ETFRoboticsUser
+pass: fastandfourier
+dbname = ETFRobotics

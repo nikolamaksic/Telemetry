@@ -1,0 +1,8 @@
+led / optimized / DLL files
+__pycache__/
+
+# IDE
+.idea/
+
+# VSCode
+.vscode/
