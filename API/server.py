@@ -15,7 +15,3 @@ app = create_app(Development)
 def hello():
     return 'Hello!'
 
-    
-app.run()
-
-

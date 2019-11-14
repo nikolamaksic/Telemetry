@@ -2,7 +2,7 @@ from functools import wraps
 from werkzeug.exceptions import Forbidden
 from flask import request
 from flask_restplus import Resource
-from marshmallow import ValidationError
+from marshmallow import Schema, fields, validates, ValidationError
 from sqlalchemy.exc import SQLAlchemyError
 
 from app import db
@@ -69,3 +69,17 @@ class MeasurementAPI(Resource):
             return {'message': 'Unknown error.'}, 500
 
         return {'message': 'Measurement successfully created.'}, 200
+
+
+class GetMeasurementSchema(Schema):
+    """
+    Schema class used for serializing data pulled from DB for our
+    GET endpoint
+    """
+    id = fields.Int(required=True)
+    front_left_weel = fields.Float(required=True)
+    front_right_weel = fields.Float(required=True)
+    back_left_weel = fields.Float(required=True)
+    back_right_weel = fields.Float(required=True)
+    servo_angle = fields.Float(required=True)
+    timestamp = fields.DateTime(required=True)

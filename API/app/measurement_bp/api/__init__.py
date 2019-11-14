@@ -1,1 +1,2 @@
 from .measurement import MeasurementAPI
+from .latest_measurement import LatestMeasurementAPI
